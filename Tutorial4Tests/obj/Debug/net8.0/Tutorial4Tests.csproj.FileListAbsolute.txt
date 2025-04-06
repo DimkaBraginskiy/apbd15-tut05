@@ -103,3 +103,4 @@ C:\Users\Dimka\Documents\Semester4\apbd\Tutorial5\Tutorial4Tests\obj\Debug\net8.
 C:\Users\Dimka\Documents\Semester4\apbd\Tutorial5\Tutorial4Tests\obj\Debug\net8.0\Tutorial4Tests.pdb
 C:\Users\Dimka\Documents\Semester4\apbd\Tutorial5\Tutorial4Tests\obj\Debug\net8.0\Tutorial4Tests.genruntimeconfig.cache
 C:\Users\Dimka\Documents\Semester4\apbd\Tutorial5\Tutorial4Tests\obj\Debug\net8.0\ref\Tutorial4Tests.dll
+C:\Users\Dimka\Documents\Semester4\apbd\Tutorial5\Tutorial4Tests\obj\Debug\net8.0\Tutorial4Tests.sourcelink.json
